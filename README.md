@@ -4,7 +4,7 @@
 
 Desenvolvedor Full Stack focado em criar aplicações web modernas, seguras e escaláveis.
 
-Atualmente estudando e desenvolvendo projetos utilizando:
+## Atualmente estudando e desenvolvendo projetos utilizando:
 
 - Front-end moderno
 - APIs REST
@@ -38,7 +38,7 @@ Atualmente estudando e desenvolvendo projetos utilizando:
 
 ## Segurança
 
-Tenho interesse em:
+## Tenho interesse em:
 
 - Application Security (AppSec)
 - API Security
@@ -77,7 +77,7 @@ Tecnologias:
 
 ### Security Labs
 
-Estudos práticos de vulnerabilidades web:
+## Estudos práticos de vulnerabilidades web:
 
 - SQL Injection
 - XSS
