@@ -1,92 +1,15 @@
-<!-- Profile README -->
+## Hi There! 👋
 
-# Olá, eu sou Orlando Conceição
+My name is Orlando Conceição
 
-Desenvolvedor Full Stack focado em criar aplicações web modernas, seguras e escaláveis.
+💻 Full Stack Developer  
+🔐 Application Security enthusiast  
+🛠 React, TypeScript, Django, Python and PostgreSQL  
+🌱 Currently improving my skills in backend development and web security  
+💡 Always learning and building new projects
 
-## Atualmente estudando e desenvolvendo projetos utilizando:
+<div align="center">
 
-- Front-end moderno
-- APIs REST
-- Segurança de aplicações (AppSec)
-- Arquitetura Full Stack
-- Boas práticas de desenvolvimento
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,python,django,postgres,docker,git,github,linux" />
 
-
-## Tecnologias
-
-### Front-end
-
-<div>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" />
 </div>
-
-
-### Back-end
-
-<div>
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,postgres" />
-</div>
-
-
-### Ferramentas
-
-<div>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-</div>
-
-
-## Segurança
-
-## Tenho interesse em:
-
-- Application Security (AppSec)
-- API Security
-- OWASP Top 10
-- Segurança de autenticação
-- Proteção de APIs REST
-- Secure Coding
-
-## Atualmente estudando
-
-- Desenvolvimento Full Stack
-- Arquitetura de sistemas
-- Segurança Web
-- Testes de APIs
-- Cloud e Deploy
-
-## Formação acadêmica
-
- - Cursando Engenharia de Software
-
-
-## Projetos em destaque
-
-### Polaroid Store
-
-Sistema Full Stack para gerenciamento e envio de imagens.
-
-Tecnologias:
-
-- React
-- Django REST Framework
-- PostgreSQL
-- Autenticação JWT
-
-- Link: https://github.com/orlandoconceicao/polaroide-store
-
-### Security Labs
-
-## Estudos práticos de vulnerabilidades web:
-
-- SQL Injection
-- XSS
-- CSRF
-- Authentication flaws
-- Access Control
-
-## Contato
-
-LinkedIn: www.linkedin.com/in/orlando-conceição-582234315
-
-Email: orlandoconceicao94@gmail.com
