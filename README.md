@@ -85,18 +85,6 @@ Estudos práticos de vulnerabilidades web:
 - Authentication flaws
 - Access Control
 
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=orlandoconceicao&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlandoconceicao&layout=compact&theme=tokyonight"/>
-
-</div>
-
-
 ## Contato
 
 LinkedIn: www.linkedin.com/in/orlando-conceição-582234315
