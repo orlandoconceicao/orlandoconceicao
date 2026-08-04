@@ -1,4 +1,4 @@
-<!-- Profile README -->
+'<!-- Profile README -->
 
 # Olá, eu sou Orlando Conceição
 
@@ -74,17 +74,7 @@ Tecnologias:
 - Autenticação JWT
 
 - Link: https://github.com/orlandoconceicao/polaroide-store
-
-### Security Labs
-
-Estudos práticos de vulnerabilidades web:
-
-- SQL Injection
-- XSS
-- CSRF
-- Authentication flaws
-- Access Control
-
+  
 ## Contato
 
 LinkedIn: www.linkedin.com/in/orlando-conceição-582234315
