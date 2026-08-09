@@ -62,19 +62,18 @@ Tenho interesse em:
 
 ## Projetos em destaque
 
-### Polaroid Store
+### DevFlow
 
-Sistema Full Stack para gerenciamento e envio de imagens.
+Projeto voltado à organização e otimização do fluxo de desenvolvimento.
 
-Tecnologias:
+- Repositório: https://github.com/orlandoconceicao/devflow
 
-- React
-- Django REST Framework
-- PostgreSQL
-- Autenticação JWT
+### Tracker
 
-- Link: https://github.com/orlandoconceicao/polaroide-store
-  
+Aplicação para acompanhamento e gerenciamento de atividades.
+
+- Repositório: https://github.com/orlandoconceicao/tracker
+
 ## Contato
 
 LinkedIn: www.linkedin.com/in/orlando-conceição-582234315
