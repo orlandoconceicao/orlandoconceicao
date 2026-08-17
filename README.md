@@ -1,122 +1,91 @@
-<!-- Profile README -->
+<div align="center">
 
-# Orlando Conceição
+  <img src="./assets/header.svg" width="100%" alt="Orlando Conceição — Desenvolvedor Backend — Python, Django, Django REST Framework e PostgreSQL" />
 
-Desenvolvedor Backend em formação, com foco em Python, Django, Django REST Framework, PostgreSQL e desenvolvimento de APIs REST.
+  <p>Estudante de Engenharia de Software com foco em desenvolvimento Backend, APIs REST e aplicações web.</p>
 
-Cursando Engenharia de Software e desenvolvendo projetos voltados para aplicações web, APIs, bancos de dados, autenticação, controle de acesso, testes e infraestrutura.
-
-## Tecnologias
-
-### Backend
-
-<div>
-<img src="https://skillicons.dev/icons?i=python,django,postgres" />
 </div>
 
-Principais conhecimentos:
+## Stack
 
-- Python
-- Django
-- Django REST Framework
-- APIs REST
-- PostgreSQL
-- SQL
-- JWT
-- RBAC
-- Redis
-- Celery
-- Webhooks
+<div align="center">
 
-### Ferramentas e infraestrutura
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,git,github,linux&perline=8" alt="Python, Django, PostgreSQL, Redis, Docker, Git, GitHub e Linux" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite&perline=6" alt="React, TypeScript, JavaScript, HTML, CSS e Vite" />
 
-<div>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </div>
 
-- Docker
-- Git
-- GitHub
-- Linux
-- Testes automatizados
-- Fundamentos de AWS
+**Backend:** Python · Django · Django REST Framework · PostgreSQL · Redis · Celery<br />
+**Infraestrutura:** Docker · Git · GitHub · Linux<br />
+**Frontend:** React · TypeScript · JavaScript<br />
+**Segurança:** JWT · RBAC · API Security · Secure Coding
 
-### Frontend
+## Projetos
 
-<div>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" />
-</div>
+<table>
+  <tr>
+    <td width="100%">
+      <h3>DevFlow</h3>
+      <p>Plataforma SaaS multi-tenant para gestão de projetos, tarefas, equipes e finanças.</p>
+      <p><strong>Stack:</strong> Django REST Framework · PostgreSQL · JWT · RBAC · Redis · Celery · Docker · React · TypeScript</p>
+      <a href="https://github.com/orlandoconceicao/devflow"><strong>Ver projeto →</strong></a>
+    </td>
+  </tr>
+</table>
 
-Conhecimentos complementares em React, TypeScript, JavaScript, HTML, CSS e Vite para desenvolvimento de interfaces e integração com APIs.
+<details>
+<summary><strong>Ver detalhes técnicos do DevFlow</strong></summary>
+<br />
 
-## Segurança
+- Arquitetura multi-tenant com isolamento de dados por organização
+- Autenticação JWT e controle de acesso baseado em papéis (RBAC)
+- Gestão de clientes, projetos, tarefas, Kanban, horas e finanças
+- Processamento assíncrono com Redis e Celery
+- Assinaturas com Stripe Checkout e webhooks assinados e idempotentes
+- Ambiente em Docker e testes automatizados de backend e frontend
 
-Interesse em desenvolvimento seguro de aplicações e APIs, com estudos relacionados a:
+</details>
 
-- API Security
-- OWASP Top 10
-- Segurança de autenticação e autorização
-- Controle de acesso
-- Secure Coding
-- Application Security
+<br />
 
-## Formação acadêmica
+<table>
+  <tr>
+    <td width="100%">
+      <h3>Study Tracker</h3>
+      <p>Plataforma educacional para acompanhamento de estudos, exercícios, avaliações e turmas.</p>
+      <p><strong>Stack:</strong> Django REST Framework · PostgreSQL · React · JWT · Redis · Celery · Docker</p>
+      <a href="https://github.com/orlandoconceicao/study-tracker"><strong>Ver projeto →</strong></a>
+    </td>
+  </tr>
+</table>
 
-**Engenharia de Software — UNOPAR**
+<details>
+<summary><strong>Ver detalhes técnicos do Study Tracker</strong></summary>
+<br />
 
-Cursando Ensino Superior.
+- API REST com autenticação JWT e dados isolados por usuário
+- Registro de estudos, calendário, estatísticas e lembretes
+- Conteúdos, aulas, exercícios e avaliações
+- Turmas com perfis e permissões para professores e alunos
+- Banco de questões, revisão e recomendações baseadas no desempenho
+- Processamento assíncrono com Redis e Celery
+- Ambiente em Docker e testes automatizados de backend e frontend
 
-## Projetos em destaque
+</details>
 
-### DevFlow
+## Backend & Security
 
-Plataforma SaaS multi-tenant para gestão de clientes, projetos, tarefas, equipes e finanças.
+`REST APIs` · `JWT` · `RBAC` · `PostgreSQL` · `Docker` · `Redis` · `Celery`
 
-Principais recursos:
-
-- API REST com Django REST Framework
-- PostgreSQL
-- autenticação JWT
-- RBAC
-- isolamento de dados entre organizações
-- Kanban e gerenciamento de tarefas
-- controle de horas e financeiro
-- Redis e Celery
-- integração com Stripe via webhooks
-- Docker
-- testes automatizados
-
-Repositório:
-https://github.com/orlandoconceicao/devflow
-
-### Study Tracker
-
-Plataforma educacional para acompanhamento de estudos, conteúdos, exercícios, avaliações, turmas e desempenho de alunos.
-
-Principais recursos:
-
-- Django REST Framework
-- PostgreSQL
-- React
-- autenticação JWT
-- calendário e estatísticas
-- conteúdos educacionais
-- exercícios e avaliações
-- turmas para professores e alunos
-- banco de questões
-- revisão e caderno de erros
-- recomendações de estudo
-
-Repositório:
-https://github.com/orlandoconceicao/study-tracker
+API Security · Authentication · Authorization · Secure Coding
 
 ## Contato
 
-LinkedIn:
-https://www.linkedin.com/in/orlando-conceição-582234315
+<div align="center">
 
-Portfólio:
-https://orlandoconceicao.github.io
+  <a href="https://www.linkedin.com/in/orlando-concei%C3%A7%C3%A3o-582234315"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://orlandoconceicao.github.io"><img src="https://img.shields.io/badge/Portfólio-1F6FEB?style=flat-square&logo=githubpages&logoColor=white" alt="Portfólio" /></a>
+  <a href="mailto:orlandoconceicao94@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
-E-mail:
-orlandoconceicao94@gmail.com
+</div>
