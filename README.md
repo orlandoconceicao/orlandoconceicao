@@ -25,7 +25,7 @@ Atualmente estudando e desenvolvendo projetos utilizando:
 ### Back-end
 
 <div>
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,postgres" />
+<img src="https://skillicons.dev/icons?i=python,django,postgres" />
 </div>
 
 
