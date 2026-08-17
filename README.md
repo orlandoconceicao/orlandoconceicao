@@ -2,7 +2,7 @@
 
 # Olá, eu sou Orlando Conceição
 
-Desenvolvedor Full Stack focado em criar aplicações web modernas, seguras e escaláveis.
+Desenvolvedor Backend em formação, com foco em Python, Django, Django REST Framework, PostgreSQL e desenvolvimento de APIs REST seguras e escaláveis.
 
 Atualmente estudando e desenvolvendo projetos utilizando:
 
