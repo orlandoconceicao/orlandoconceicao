@@ -72,7 +72,7 @@ Projeto voltado à organização e otimização do fluxo de desenvolvimento.
 
 Aplicação para acompanhamento e gerenciamento de atividades.
 
-- Repositório: https://github.com/orlandoconceicao/tracker
+- Repositório: github.com/orlandoconceicao/study-tracker
 
 ## Contato
 
