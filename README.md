@@ -4,7 +4,7 @@
 
 Cursando Engenharia de Software e desenvolvendo aplicações web e APIs REST.
 
-- **Stack principal:** `Python`, `Django`, `Django REST Framework`, `PostgreSQL` e `Docker`
+- **Stack principal:** `Python`, `Django Web Framework`, `Django REST Framework`, `PostgreSQL` e `Docker`
 - **Também utilizo:** `Redis`, `Celery`, `Git`, `Linux`, `React` e `TypeScript`
 - **Projetos principais:** [DevFlow](https://github.com/orlandoconceicao/devflow) e [Study Tracker](https://github.com/orlandoconceicao/study-tracker)
 - **Interesses:** API Security, Secure Coding e AppSec
